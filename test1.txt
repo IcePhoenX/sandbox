@@ -1,3 +1,4 @@
 initial1
 initial2 changed after branch
 on test1
+on test1 after branch
